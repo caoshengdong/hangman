@@ -133,7 +133,7 @@ altitude
 altogether
 aluminium
 always
-a.m (缩)上午，午前
+a.m
 amaze
 ambition
 ambulance
@@ -333,7 +333,7 @@ bathroom
 battery
 battle
 bay
-B.C. (缩)公元前
+B.C.
 be
 beach
 beam
@@ -575,7 +575,7 @@ carry
 cart
 carve
 case
-case n.箱(子)，盒(子)，套
+case
 cash
 cassette
 cast
@@ -647,7 +647,7 @@ chill
 chimney
 chin
 China
-china n.瓷器，瓷料
+china
 Chinese
 chocolate
 choice
@@ -1323,7 +1323,7 @@ evaluate
 evaporate
 eve
 even
-even a.均匀的；平的
+even
 evening
 event
 eventually
@@ -1431,7 +1431,7 @@ family
 famine
 famous
 fan
-fan n.扇子，风扇 vt.扇
+fan
 fancy
 far
 fare
@@ -1514,7 +1514,7 @@ flame
 flare
 flash
 flat
-flat n.一套房间；单元住宅
+flat
 flavour
 fleet
 flesh
@@ -1907,7 +1907,7 @@ hurt
 husband
 hut
 hydrogen
-I pron.(主格)我
+I
 ice
 ice-cream
 idea
@@ -2018,7 +2018,7 @@ instead
 instinct
 institute
 institution
-instruct[ inˈstrʌkt] vt.教；指示；通知
+instruct[
 instruction
 instrument
 insufficient
@@ -2081,7 +2081,7 @@ itself
 jacket
 jail
 jam
-jam vt.使塞满；使堵塞
+jam
 January
 Japan
 Japanese
@@ -2231,7 +2231,7 @@ license
 lick
 lid
 lie
-lie vi.说谎，欺骗 n.谎话
+lie
 lieutenant
 life
 lifetime
@@ -2242,7 +2242,7 @@ lighten
 lightly
 lightning
 like
-like prep.像，如；像要
+like
 likely
 likewise
 limb
@@ -2269,7 +2269,7 @@ live
 lively
 liver
 living
-living-room n.起居室
+living-room
 load
 loaf
 loan
@@ -2284,7 +2284,7 @@ logic
 logical
 lonely
 long
-long vi.渴望，极想念
+long
 look
 loop
 loose
@@ -2333,7 +2333,7 @@ male
 man
 manage
 management
-manager[ ˈmænidʒə] n.经理，管理人
+manager[
 mankind
 manly
 manner
@@ -2344,7 +2344,7 @@ many
 map
 marble
 March
-march vi.行军；游行示威
+march
 margin
 marine
 mark
@@ -2361,7 +2361,7 @@ master
 masterpiece
 mat
 match
-match n.(一根)火柴
+match
 mate
 material
 materialism
@@ -2372,15 +2372,15 @@ matter
 mature
 maximum
 May
-may v.aux.可能；可以，祝
+may
 maybe
 mayor
 me
 meadow
 meal
 mean
-mean a.自私的；吝啬的
-mean a.平均的 n.平均值
+mean
+mean
 meaning
 means
 meantime
@@ -2411,7 +2411,7 @@ mention
 menu
 merchant
 mercury
-Mercury n.水星
+Mercury
 mercy
 mere
 merely
@@ -2453,13 +2453,13 @@ minor
 minority
 minus
 minute
-minute a.微细的；详细的
+minute
 miracle
 mirror
 miserable
 mislead
 miss
-miss vt.未看到；惦念
+miss
 missile
 missing
 mission
@@ -2878,7 +2878,7 @@ physicist
 physics
 piano
 pick
-pick vt.拾，摘 vi.采摘
+pick
 picnic
 picture
 pie
@@ -2930,7 +2930,7 @@ plug
 plunge
 plural
 plus
-P.M. n.下午，午后
+P.M.
 pocket
 poem
 poet
@@ -2939,7 +2939,7 @@ point
 poison
 poisonous
 pole
-pole n.极(点)，磁极，电极
+pole
 police
 policeman
 policy
@@ -2952,10 +2952,10 @@ pollute
 pollution
 pond
 pool
-pool n.共用物 vt.共有
+pool
 poor
 pop
-pop n.砰的一声，爆破声
+pop
 popular
 population
 porch
@@ -2975,8 +2975,8 @@ possibility
 possible
 possibly
 post
-post n.邮政，邮寄；邮件
-post n.岗位，哨所；职位
+post
+post
 postage
 postman
 postpone
@@ -2984,7 +2984,7 @@ pot
 potato
 potential
 pound
-pound vt.捣碎；舂烂；猛击
+pound
 pour
 poverty
 powder
@@ -3016,8 +3016,8 @@ preposition
 prescribe
 presence
 present
-present vt.赠送; 介绍; 提出
-present n.礼物，赠送物
+present
+present
 presently
 preserve
 president
@@ -3109,12 +3109,12 @@ pull
 pulse
 pump
 punch
-punch vt.用拳猛击 n.拳打
+punch
 punctual
 punish
 punishment
 pupil
-pupil n.瞳孔
+pupil
 puppet
 purchase
 pure
@@ -3152,10 +3152,10 @@ quotation
 quote
 rabbit
 race
-race n.人种，种族，民族
+race
 racial
 rack
-rack vt.使苦痛，折磨
+rack
 racket
 radar
 radiate
@@ -3206,7 +3206,7 @@ really
 realm
 reap
 rear
-rear vt.抚养，培养；栽种
+rear
 reason
 reasonable
 rebel
@@ -3339,7 +3339,7 @@ response
 responsibility
 responsible
 rest
-rest n.剩余部分；其余的人
+rest
 restaurant
 restless
 restore
@@ -3378,7 +3378,7 @@ rifle
 right
 rigid
 ring
-ring vi.鸣；按铃 n.铃声
+ring
 ripe
 ripen
 rise
@@ -3394,7 +3394,7 @@ robbery
 robe
 robot
 rock
-rock n.岩，岩石；石头
+rock
 rocket
 rod
 role
@@ -3419,7 +3419,7 @@ rouse
 route
 routine
 row
-row vt.划(船等) vi.划船
+row
 royal
 rub
 rubber
@@ -3476,7 +3476,7 @@ saving
 saw
 say
 scale
-scale n.标度；比例；大小
+scale
 scan
 scar
 scarce
@@ -3508,16 +3508,16 @@ screen
 screw
 sea
 seal
-seal n.海豹
+seal
 seaman
 seaport
 search
 season
 seat
 second
-second n.秒
+second
 secondary
-secondly ad.第二(点)；其次
+secondly
 secret
 secretary
 section
@@ -3586,7 +3586,7 @@ shave
 she
 shear
 shed
-shed n.棚，小屋；贷棚
+shed
 sheep
 sheet
 shelf
@@ -3710,7 +3710,7 @@ soak
 soap
 sob
 sober
-so-called a.所谓的，号称的
+so-called
 soccer
 social
 socialism
@@ -3751,7 +3751,7 @@ sorry
 sort
 soul
 sound
-sound n.声音 vi.响，发声
+sound
 soup
 sour
 source
@@ -3809,7 +3809,7 @@ spot
 spray
 spread
 spring
-spring n.春天，春季
+spring
 springtime
 sprinkle
 spur
@@ -3820,7 +3820,7 @@ squirrel
 stab
 stability
 stable
-stable n.厩，马厩，牛棚
+stable
 stack
 stadium
 staff
@@ -3840,7 +3840,7 @@ start
 startle
 starve
 state
-state vt.陈述，说明，阐明
+state
 statement
 statesman
 static
@@ -3907,7 +3907,7 @@ string
 strip
 stripe
 stroke
-stroke vt.&n.抚，摩，捋
+stroke
 strong
 strongly
 structural
@@ -3929,7 +3929,7 @@ substantial
 substitute
 subtract
 suburb
-subway[ ˈsʌbwei] n.地道；地下铁路
+subway[
 succeed
 success
 successful
@@ -3978,7 +3978,7 @@ surgery
 surname
 surprise
 surprising
-surprisingly ad.惊人地
+surprisingly
 surrender
 surround
 surroundings
@@ -3989,7 +3989,7 @@ suspend
 suspicion
 sustain
 swallow
-swallow vt.&vi.吞下，咽下
+swallow
 swamp
 swan
 swarm
@@ -4027,7 +4027,7 @@ tame
 tan
 tank
 tap
-tap n.塞子；龙头 vt.开发
+tap
 tape
 target
 task
@@ -4040,7 +4040,7 @@ teacher
 teaching
 team
 tear
-tear vt.撕开，撕裂
+tear
 technical
 technician
 technique
@@ -4062,12 +4062,12 @@ temptation
 ten
 tenant
 tend
-tend vi.走向，趋向；倾向
+tend
 tendency
 tender
 tennis
 tense
-tense a.拉紧的，绷紧的
+tense
 tent
 tenth
 term
@@ -4150,14 +4150,14 @@ timid
 tin
 tiny
 tip
-tip vt.轻击 vi.给小费
+tip
 tire
 tired
 tissue
 title
 to
 toast
-toast n.祝酒；祝酒词
+toast
 tobacco
 today
 toe
@@ -4352,7 +4352,7 @@ us
 usage
 use
 used
-used a.旧的；习惯于…的
+used
 useful
 useless
 user
@@ -4362,7 +4362,7 @@ utility
 utilize
 utmost
 utter
-utter vt.发出，说，讲
+utter
 vacant
 vacation
 vacuum
@@ -4402,7 +4402,7 @@ via
 vibrate
 vibration
 vice
-vice n.(老)虎钳
+vice
 victim
 victorious
 victory
@@ -4438,7 +4438,7 @@ voluntary
 vote
 voyage
 wage
-wage vt.开展(运动)
+wage
 waggon
 waist
 wait
@@ -4489,8 +4489,8 @@ welcome
 weld
 welfare
 well
-well ad.好；完全地 int.嘿
-well-known a.众所周知的，出名的
+well
+well-known
 west
 western
 westward
@@ -4535,7 +4535,7 @@ will
 willing
 win
 wind
-wind vt.绕，缠绕 vi.卷曲
+wind
 window
 wine
 wing
@@ -4589,7 +4589,7 @@ writer
 writing
 wrong
 X-ray
-yard n.院子，庭院；场地
+yard
 yard
 yawn
 year
