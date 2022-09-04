@@ -35,8 +35,13 @@ if __name__ == '__main__':
     actual = 'word'
     result = '____'
     used_letters_ = []
+
+    # read words from file
+    with open('words.txt', 'r') as f:
+        word_list = f.read().splitlines()
+
     while result != actual:
-        guessed_letter = guess_next_letter(result, used_letters=used_letters_, word_list=['about', 'abound', 'word'])
+        guessed_letter = guess_next_letter(result, used_letters=used_letters_, word_list=word_list)
         print('guessed letter', guessed_letter)
         if guessed_letter in actual:
             # replace _ to actual letter
